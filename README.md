@@ -7,3 +7,4 @@ Formation Sopra Steria du 07/12/2021
 - Centralized
 - Git-flow
 - Github flow
+- Gitlab flow
